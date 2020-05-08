@@ -70,7 +70,7 @@
     /*background-color: red;*/
     height: 100%;
     width: 100%;
-    
+    margin-top: 100%;
   }
   .cuerpo-header{
     /*background: pink;*/
@@ -88,7 +88,7 @@
   .cuerpo-contenidot{
     width: 100%;
     height: 100%;
-  }
+    
   .cuerpo-menu{
     /* background-color: green; */
     margin: 2px;

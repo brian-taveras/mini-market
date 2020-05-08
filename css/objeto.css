@@ -5,7 +5,8 @@
     position: absolute;
     left: 10%;
     height: 100%;
-    padding-top: 40px;
+    padding-top: 60px;
+  
   }
   .categoria{
     width: 200px;
@@ -17,6 +18,7 @@
     left: 0;
     text-align: center;
     margin-bottom: 25px;
+    margin-top: 100px;
   }
   .titulo-carrito{
     text-align: center;
@@ -27,6 +29,7 @@
     border: solid 1px #cccccc;
     border-radius: 20px;
     height: 100%;
+    margin-top: 100px;
   }
   .detalle-carrito{
     border-bottom: solid 1px #ccc;
