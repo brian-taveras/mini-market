@@ -23,6 +23,12 @@
     <div class="logo">
         <h1>Mini Market Rosa <b>Online</b> </h1>
     </div>
+    <div class="imagen">
+						<img src="../imagen/online-store.png">
+						<p class="sub-numero">3</p>
+						<div class="usuario-info">
+							<form method="post" action="cambiarSesion.php">
+								<input type="submit" name="" value="LogOut"/>
     <div class="menu">
 
         <nav>

@@ -6,6 +6,7 @@
     <title>Mini Market Rosa</title>
 
 <link rel="stylesheet" href="css/estilos.css">
+<link rel="stylesheet" href="css/carrito.css">
 
 
 

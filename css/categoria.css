@@ -287,26 +287,7 @@ margin-left: 20px;
 .sub-precio{
   font-weight: bold;
 }
-.boton-comprer-ahora{
-  margin-bottom: 10px;
-}
-.boton-comprer-ahora a{
-  border: solid 1.5px #000000;
-  border-radius: 15px;
-  padding: 1px 10px 4px 10px;
-  font-weight: bold;
-  background: #ffffff;
-  color: #000000;
 
-}
-.boton-comprer-ahora a:hover{
-  color:#ffffff;
-  background: #000000;
-  /* border: solid 1.5px; */
-  border-radius: 15px;
-  font-weight: bold;
-  transition-property:border,color,background;
-  transition-duration: 0.5s;
 }
 .boton-agregar-carrito{
   margin-top: 2px;
@@ -315,8 +296,7 @@ margin-left: 20px;
   width: 117%;
   height: 100%;
 }
-.precio{
-  background: #46a2fd;
+
 }
 .button {
   --offset: 10px;
@@ -382,3 +362,24 @@ margin-left: 20px;
 .button:hover .button__vertical {
   transform: scaleY(0);
 }
+
+.precio{
+  margin-bottom: 10px;
+}
+.precio p{
+  border: solid 1.5px #000000;
+  border-radius: 15px;
+  padding: 1px 10px 4px 10px;
+  font-weight: bold;
+  background: #ffffff;
+  color: #000000;
+
+}
+.precio p:hover{
+  color:#ffffff;
+  background: #000000;
+  /* border: solid 1.5px; */
+  border-radius: 15px;
+  font-weight: bold;
+  transition-property:border,color,background;
+  transition-duration: 0.5s;
